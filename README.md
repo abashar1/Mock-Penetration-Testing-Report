@@ -1,2 +1,2 @@
 # Mock-Penetration-Testing-Report
- Documented a comprehensive penetration testing report on mock company with a fixed scope
+This contains the documentation for a penetration testing repoprt conducted on a mock company. 
